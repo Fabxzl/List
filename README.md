@@ -1,4 +1,4 @@
-# Lista de Tarefas
+# Lista de Tarefas - Meu primeiro projeto utlizando JavaScript
 
 ## Foto do projeto
 
